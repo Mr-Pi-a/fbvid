@@ -74,7 +74,6 @@ try:
         url = input("\nEnter the URL of Facebook video: ")
         if url[8]=="m":
         	url = url[:8] + "www" + url[8+1:]
-        print(url)
         
         x = re.match(r'^(https:|)[/][/]www.([^/]+[.])*facebook.com', url)
      
