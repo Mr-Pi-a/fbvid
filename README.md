@@ -8,6 +8,8 @@ python fbvid.py
 
 just paste the link and you are ready to go
 
+And you are ready to go just paste links of 
+Facebook videos and download them in your library
 
 
 
